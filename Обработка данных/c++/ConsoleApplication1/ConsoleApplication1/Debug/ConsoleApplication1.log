@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+d:\документы\проект\обработка данных\c++\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Документы\Проект\Обработка данных\c++\ConsoleApplication1\Debug\ConsoleApplication1.exe

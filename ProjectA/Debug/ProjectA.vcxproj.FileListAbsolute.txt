@@ -1,5 +1,0 @@
-C:\ProjectA\Debug\ProjectA.vcxprojAssemblyReference.cache
-C:\ProjectA\Debug\ProjectA.exe
-C:\ProjectA\Debug\ProjectA.pdb
-C:\ProjectA\Debug\ProjectA.MyForm.resources
-C:\ProjectA\Debug\ProjectA.vcxproj.GenerateResource.cache

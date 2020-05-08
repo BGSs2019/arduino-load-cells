@@ -1,0 +1,4 @@
+C:\ProjectA\Release\ProjectA.vcxprojAssemblyReference.cache
+C:\ProjectA\Release\ProjectA.MyForm.resources
+C:\ProjectA\Release\ProjectA.vcxproj.GenerateResource.cache
+C:\ProjectA\Release\ProjectA.exe

@@ -1,0 +1,10 @@
+C:\ProjectA\Debug\ProjectA.exe
+C:\ProjectA\Debug\ProjectA.pdb
+C:\ProjectA\Debug\ProjectA.MyForm.resources
+C:\ProjectA\Debug\ProjectA.vcxproj.GenerateResource.cache
+C:\ProjectA\Debug\ProjectA.vcxprojAssemblyReference.cache
+C:\ProjectB\Debug\ProjectA.vcxprojAssemblyReference.cache
+C:\ProjectB\Debug\ProjectA.MyForm.resources
+C:\ProjectB\Debug\ProjectA.vcxproj.GenerateResource.cache
+C:\ProjectB\Debug\ProjectA.exe
+C:\ProjectB\Debug\ProjectA.pdb

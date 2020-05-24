@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\ProjectA\</FILEPATH>
+      <FILENAME>MyForm.h</FILENAME>
+      <LINE>751</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Функция использует "360036" байт в стеке:  это превышает значение /analyze:stacksize"16384". Попробуйте переместить некоторые данные в кучу.</DESCRIPTION>
+    <FUNCTION>ProjectA::MyForm::button1_Click</FUNCTION>
+    <DECORATED>?button1_Click@MyForm@ProjectA@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z</DECORATED>
+    <FUNCLINE>751</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

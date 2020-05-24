@@ -1,0 +1,3 @@
+C:\ProjectB\x64\Release\ProjectA.MyForm.resources
+C:\ProjectB\x64\Release\ProjectA.vcxproj.GenerateResource.cache
+C:\ProjectB\x64\Release\ProjectA.exe
